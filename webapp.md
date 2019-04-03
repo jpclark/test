@@ -9,4 +9,20 @@ Ability to subscribe to a standalone instance for very high traffic users, "prem
 
 Custom services for high end clients.
 
+## authentication
+Application specific logins with email, or OAuth?
+2FA - recommended or even required (phone/email/google auth app)
+
+## browser support
+need to choose which browsers are supported and tested out of the gate, add others after mvp is achieved.
+
+## system administration interface/consoles
+need admin tools for service, separate from admin console provided to users
+extra security required here... this is absolutely paramount
+
+
+
+
+
+
 
